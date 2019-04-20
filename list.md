@@ -22,3 +22,11 @@ IEEE: [Beyond Standards](https://beyondstandards.ieee.org/)
 
 
 ## Public Sector Data Ethics Codes, Guidelines or Legislation (includes draft legislation)
+
+
+## Interesting Reports and Papers, Other Useful Links ##
+
+**AI/ML Harmful Impact Research**
+
+AI Now
+-  [Discriminating Systems: Gender, Race and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf)
