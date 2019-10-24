@@ -7,7 +7,7 @@ A big honking list of all of the codes of ethics/principles that are focused on 
 
 
 IEEE: [Beyond Standards](https://beyondstandards.ieee.org/)
--   [P7006 - Standard for Personal Data Artificial Intelligence (AI) Agent](https://standards.ieee.org/project/7006.html)
+- [P7006 - Standard for Personal Data Artificial Intelligence (AI) Agent](https://standards.ieee.org/project/7006.html)
 - [P7005 - Standard for Transparent Employer Data Governance](https://standards.ieee.org/project/7005.html)  
 - [P7004 - Standard for Child and Student Data Governance](https://standards.ieee.org/project/7004.html)
 
@@ -29,9 +29,10 @@ IEEE: [Beyond Standards](https://beyondstandards.ieee.org/)
 **AI/ML Harmful Impact Research**
 
 AI Now
--  [Discriminating Systems: Gender, Race and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf)
+- [Discriminating Systems: Gender, Race and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf)
 
 
 
 **Interesting Links**
-[Lighthouse3 Open Directory of Women in AI Ethics](https://lighthouse3.com/diversityinai/)
+- [Lighthouse3 Open Directory of Women in AI Ethics](https://lighthouse3.com/diversityinai/)
+- [Stephanie Lucas' Responsible Design Notebook (newsletter, on LinkedIn)](https://www.linkedin.com/pulse/creating-culture-responsible-design-where-do-you-begin-lucas/)
