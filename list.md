@@ -30,3 +30,8 @@ IEEE: [Beyond Standards](https://beyondstandards.ieee.org/)
 
 AI Now
 -  [Discriminating Systems: Gender, Race and Power in AI](https://ainowinstitute.org/discriminatingsystems.pdf)
+
+
+
+**Interesting Links**
+[Lighthouse3 Open Directory of Women in AI Ethics](https://lighthouse3.com/diversityinai/)
