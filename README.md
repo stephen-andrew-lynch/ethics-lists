@@ -70,4 +70,4 @@ Next, here are some non-academic reports/projects on applications of responsible
 
 Finally, if you've read this far, check out this talk by our own Guillaume Saint-Jacques talking about key considerations in responsible AI research at LinkedIn:
 
-[Approaches to Fairness, Equity, and Inequality at LinkedIn | Guillaume Saint-Jacques](https://www.youtube.com/watch?v=Br0GfSnzUsU)
+**HBS Digital Initiative:**[Approaches to Fairness, Equity, and Inequality at LinkedIn | Guillaume Saint-Jacques](https://www.youtube.com/watch?v=Br0GfSnzUsU)
